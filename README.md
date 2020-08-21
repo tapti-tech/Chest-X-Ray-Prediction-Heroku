@@ -1,1 +1,1 @@
-# Chest-X-Ray-Prediction-Heroku
+# Pneumonia-Detection using resnet
